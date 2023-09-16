@@ -1,0 +1,3 @@
+name: messageRedirect
+version: '1.0-SNAPSHOT'
+main: me.imprial.messageredirect.MessageRedirect
